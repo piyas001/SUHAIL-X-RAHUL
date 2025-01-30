@@ -1,5 +1,5 @@
 {
-   "name": "suhaily",
+   "name": "SUHAIL-X-RAHUL",
    "version": "1.0.1",
    "status": "upload suhaily",
    "description": "Multi device whatsapp bot.",
@@ -9,10 +9,10 @@
       "node": ">=20.0.0"
    },
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Suhail",
-      "suhail": "pm2 start . --deep-monitoring --attach --name Suhail",
-      "start": "pm2 start . --attach --name Suhail",
-      "stop": "pm2 stop Suhail",
+      "run": "pm2 start . --deep-monitoring --attach --name SUHAIL-X-RAHUL",
+      "suhail": "pm2 start . --deep-monitoring --attach --name SUHAIL-X-RAHUL",
+      "start": "pm2 start . --attach --name SUHAIL-X-RAHUL",
+      "stop": "pm2 stop SUHAIL-X-RAHUL",
       "dbs--postinstall": "npx puppeteer@latest install --y"
    },
    "author": "SuhailTechInfo",
