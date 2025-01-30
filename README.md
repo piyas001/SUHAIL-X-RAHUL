@@ -1,10 +1,10 @@
 # SUHAIL-X (V2)
 <p align="center">
-<a href="https://github.com/SuhailTechInfo"><img title="Author" src="https://i.ibb.co/HLh4s5KF/20240901-152024.png?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rahultechser"><img title="Author" src="https://i.ibb.co/HLh4s5KF/20240901-152024.png?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
-<a href="https://github.com/SuhailTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/SuhailTechInfo?color=blue&style=flat-square"></a>
+<a href="https://github.com/rahultechser/followers"><img title="Followers" src="https://img.shields.io/github/followers/rahultechser?color=blue&style=flat-square"></a>
 <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
 <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
 <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/"><img title="Size" src="https://img.shields.io/github/repo-size/SuhailTechInfo/suhailmd-2.0?style=flat-square&color=green"></a>
