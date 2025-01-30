@@ -1,6 +1,6 @@
 # SUHAIL-X (V2)
 <p align="center">
-<a href="https://github.com/SuhailTechInfo"><img title="Author" src="https://ibb.co/Y40QMHNR?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SuhailTechInfo"><img title="Author" src="https://i.ibb.co/HLh4s5KF/20240901-152024.png?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
