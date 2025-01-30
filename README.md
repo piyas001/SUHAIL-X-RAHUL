@@ -5,10 +5,10 @@
 
   <p align="center">
 <a href="https://github.com/rahultechser/followers"><img title="Followers" src="https://img.shields.io/github/followers/rahultechser?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/"><img title="Size" src="https://img.shields.io/github/repo-size/SuhailTechInfo/suhailmd-2.0?style=flat-square&color=green"></a>
-<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/piyas001/SUHAIL-X-RAHUL?color=blue&style=flat-square"></a>
+<a href="https://github.com/piyas001/SUHAIL-X-RAHUL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/piyas001/SUHAIL-X-RAHUL?color=blue&style=flat-square"></a>
+<a href="https://github.com/piyas001/SUHAIL-X-RAHUL/"><img title="Size" src="https://img.shields.io/github/repo-size/piyas001/SUHAIL-X-RAHUL?style=flat-square&color=green"></a>
+<a href="https://github.com/piyas001/SUHAIL-X-RAHUL/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
